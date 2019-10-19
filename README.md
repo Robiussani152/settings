@@ -1,4 +1,6 @@
 # Settings package for Laravel
+[![Version](https://poser.pugx.org/robiussani152/settings/v/stable.svg)](https://github.com/robiussani152/settings/releases)
+[![Downloads](https://poser.pugx.org/robiussani152/settings/d/total.svg)](https://github.com/robiussani152/settings)
 
 This package is for managing most basic settings in your laravel application like site title, site logo etc. You can add your custom settings using this package.
 
@@ -40,4 +42,4 @@ $settings = Settings::all();
 ```
 ## License
 
-The MIT License (MIT). Please see [LICENSE](LICENSE.md) for more information.
+The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
