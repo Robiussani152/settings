@@ -22,7 +22,7 @@
                 "Robiussani152\\Settings\\SettingServiceProvider"
             ],
             "aliases": {
-                "Settings": "Robiussani152\\Settings\\Facades"
+                "Settings": "Robiussani152\\Settings\\Facades\\Settings"
             }
         }
     }
